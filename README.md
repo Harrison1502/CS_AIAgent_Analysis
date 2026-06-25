@@ -40,12 +40,3 @@ Dự án được xây dựng hoàn toàn bằng ngôn ngữ **Python**, ứng d
 * `plotly`: Trực quan hóa dữ liệu bằng các biểu đồ tương tác cao.
 * `streamlit`: Thiết kế giao diện người dùng (UI) và triển khai ứng dụng Web.
 
----
-
-## ⚙️ Hướng Dẫn Cài Đặt & Khởi Chạy
-Để chạy ứng dụng trên máy tính cá nhân (Local Machine), vui lòng làm theo các bước sau:
-
-**Bước 1: Clone kho lưu trữ này về máy**
-```bash
-git clone [https://github.com/Tên-Tài-Khoản-Của-Bạn/Tên-Repo-Của-Bạn.git](https://github.com/Tên-Tài-Khoản-Của-Bạn/Tên-Repo-Của-Bạn.git)
-cd Tên-Repo-Của-Bạn
